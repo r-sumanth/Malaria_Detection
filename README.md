@@ -1,5 +1,3 @@
-# Malaria Detection
-Detecting parasitized Malaria using Blood cell image dataset obtained from TensorFlow through National Institutes of Health (NIH).
 # Malaria Detection with Deep Learning using TensorFlow
 
 This repository contains the code and documentation for an end-to-end deep learning project to classify malaria-infected cells from microscope slide images. The project utilizes a custom Convolutional Neural Network (CNN) built with TensorFlow and Keras, with a strong focus on modern MLOps practices like experiment tracking and hyperparameter optimization.
