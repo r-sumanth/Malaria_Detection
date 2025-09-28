@@ -10,7 +10,6 @@ This repository contains the code and documentation for an end-to-end deep learn
 
 - **Custom CNN Architecture:** A custom, LeNet-inspired CNN was designed and implemented, incorporating modern deep learning techniques such as Batch Normalization, Dropout, and ReLU activations.
 - **High-Performance Data Pipeline:** The entire data loading and preprocessing pipeline was built using `tf.data`, ensuring high efficiency and performance during training.
-- **On-GPU Data Augmentation:** Data augmentation was performed directly on the GPU using Keras Preprocessing Layers, significantly reducing the CPU bottleneck and accelerating training.
 - **Systematic Hyperparameter Tuning:** Leveraged **Weights & Biases (W&B) Sweeps** to systematically search for the optimal set of hyperparameters, moving beyond manual tuning to a more rigorous, data-driven approach.
 - **Rigorous Model Evaluation:** Models were selected based not just on peak accuracy but on training stability and validation loss, ensuring the final model is both robust and high-performing. The final model achieved **~93% validation accuracy**.
 
