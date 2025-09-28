@@ -14,6 +14,6 @@ This repository contains the code for an end-to-end deep learning project to cla
 ## Technologies Used
 
 - **Frameworks:** TensorFlow, Keras
-- **Libraries:** Weights & Biases (for experiment tracking), NumPy, Matplotlib, Scikit-learn
+- **Libraries:** Weights & Biases (for experiment tracking), NumPy, Matplotlib
 - **Dataset:** NIH Malaria Cell Image Dataset
 
